@@ -1,3 +1,3 @@
-# leetcode-problems
+# Leetcode Challenges!
 
-##invertLC challenge description [link](https://leetcode.com/problems/reverse-integer/description/) 
+## InvertLC challenge description [link](https://leetcode.com/problems/reverse-integer/description/) 
